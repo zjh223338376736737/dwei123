@@ -1,0 +1,26 @@
+body{
+	background-color: aliceblue;
+}
+a{
+	text-decoration: none;
+	color: white;
+	background-color: hotpink;
+	border-radius: 4px;
+}
+.box{
+	width: 70%;
+	height: 600px;
+	margin: 40px auto;
+}
+.lef{
+	width: 30%;
+	height: 600px;
+	background-color: royalblue;
+	float: left;
+}
+.rig{
+	width: 70%;
+	height: 600px;
+	background-color: aqua;
+	float: left;
+}
